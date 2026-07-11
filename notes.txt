@@ -1,1 +1,1 @@
-clar ca vantu
+Today I learned how Git stores project history loccally.
